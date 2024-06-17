@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="Roll_Left_Montage" ExportPath="/Script/Engine.AnimMontage'/Game/LocoAssets/Roll_Left_Montage.Roll_Left_Montage'"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/LocoAssets/Roll_Left_Montage.Roll_Left_Montage:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/LocoAssets/Roll_Left_Montage.Roll_Left_Montage:AnimDataModel'"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/LocoAssets/Roll_Left_Montage.Roll_Left_Montage:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/LocoAssets/Roll_Left_Montage.Roll_Left_Montage:AnimDataModel'"
+      FrameRate=(Numerator=100000)
+      NumberOfFrames=136667
+      NumberOfKeys=136668
+      bPopulated=True
+   End Object
+   BlendOut=(BlendTime=0.550000)
+   CompositeSections(0)=(SectionName="Default",LinkedMontage="/Script/Engine.AnimMontage'Roll_Left_Montage'",SegmentIndex=0,SegmentLength=1.366667,LinkedSequence="/Script/Engine.AnimSequence'/Game/LocoAssets/Roll_Left.Roll_Left'")
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference="/Script/Engine.AnimSequence'/Game/LocoAssets/Roll_Left.Roll_Left'",AnimEndTime=1.366667))))
+   CommonTargetFrameRate=(Numerator=30)
+   SequenceLength=1.366670
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   DataModelInterface=AnimDataModel'Roll_Left_Montage:AnimDataModel'
+   Skeleton="/Script/Engine.Skeleton'/Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfo'SceneThumbnailInfo_0'"
+End Object
