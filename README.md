@@ -25,6 +25,7 @@ I - Inventory Menu
 B - Climb Ladder
 1, 2. 3, 4 - Use items equipped
 Mouse movement - Look up / Down, Rotate  Left / Right
+G - Use Grapple when Shooting
 
 
 
